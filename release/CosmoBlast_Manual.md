@@ -162,4 +162,5 @@ Stella's default keys:
 
 ---
 
-*COSMOBLAST — inspired by the classic four-way arcade shooter Space Zap.*
+*COSMOBLAST — based on the arcade original Space Zap: the 2600 cart that
+mighta coulda existed in a different timeline.*

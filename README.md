@@ -1,10 +1,12 @@
 # CosmoBlast
 
-**Atari 2600 homebrew · Space Zap–inspired · intentionally 4K**
+**Atari 2600 homebrew · based on Space Zap · intentionally 4K**
 
-CosmoBlast is a one-player arcade defense game for the Atari 2600 Video Computer System. You command a fixed laser base in deep space. Invaders rush in from all four edges. You cannot move — only aim and fire.
+CosmoBlast is a homebrew Atari 2600 take on the original arcade game **[Space Zap](https://en.wikipedia.org/wiki/Space_Zap)** (Game-A-Tron / Midway, 1980): fixed base, invaders from four sides, aim and fire — you never move the base.
 
-This project was built under a hard rule: **stay inside a classic 4K cartridge.** Not 8K with bankswitching. Not Superchip RAM. A single 4096-byte ROM, the same shape as early commercial 2600 games.
+Think of it as the 2600 cartridge that **might have existed** in another timeline — the kind of early, no-frills port a publisher could have shipped when carts were still a hard **4K**. Same arcade idea, squeezed into what a late-’70s / early-’80s VCS game actually had to live with.
+
+This project was built under that rule for real: **stay inside a classic 4K cartridge.** Not 8K with bankswitching. Not Superchip RAM. A single 4096-byte ROM.
 
 **Current release: v0.99** · playable ROM: [`release/CosmoBlast_v1.3.a26`](release/CosmoBlast_v1.3.a26)
 
@@ -98,10 +100,11 @@ Historical release ROMs (v1.0 → v1.3) are kept under `release/` so you can com
 
 - **Design / art direction:** LightChibi
 - **Code:** CosmoBlast homebrew (this repo)
-- **Inspired by:** *Space Zap* (Game-A-Tron / Midway, 1980) — fixed base, four-way fire
+- **Based on:** the arcade original ***Space Zap*** (Game-A-Tron / Midway, 1980)
+- **Framing:** an unofficial “what if” 2600 version — the cart that mighta coulda existed in a different timeline
 - **Toolchain:** [batari Basic](https://github.com/batari-Basic/batari-Basic) 1.9 + DASM
 
-CosmoBlast is an unofficial homebrew. It is not affiliated with Midway, Atari, or the original Space Zap rights holders.
+CosmoBlast is an unofficial homebrew fan work. It is not affiliated with Midway, Atari, Game-A-Tron, or the Space Zap rights holders.
 
 ---
 
