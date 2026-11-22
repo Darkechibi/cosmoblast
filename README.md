@@ -96,12 +96,21 @@ Historical release ROMs (v1.0 → v1.3) are kept under `release/` so you can com
 
 ---
 
+## The original arcade game
+
+CosmoBlast is based on ***Space Zap***, the four-way fixed-base arcade shooter originally made by **Game-A-Tron** and released / published by **Midway** in **1980**. You sit in a stationary base; enemies come from the four screen edges; you aim and fire. That core idea is what this 2600 homebrew is chasing — as the cart that mighta coulda existed in a different timeline.
+
+## Theme music (pre-AI)
+
+Long before this homebrew existed as a finished ROM, [**Cosmo Blast** by FoxSynergy (A Digitized Orange)](https://opengameart.org/content/cosmo-blast) was composed as arcade-style space music for a Cosmo Blast–style game if one ever got made. It was posted on OpenGameArt in **2012** — human-made, pre-AI — and is licensed **CC-BY 3.0**. Credit FoxSynergy / A Digitized Orange if you use it alongside the game.
+
 ## Credits & inspiration
 
 - **Design / art direction:** LightChibi
 - **Code:** CosmoBlast homebrew (this repo)
-- **Based on:** the arcade original ***Space Zap*** (Game-A-Tron / Midway, 1980)
-- **Framing:** an unofficial “what if” 2600 version — the cart that mighta coulda existed in a different timeline
+- **Arcade original:** *Space Zap* — Game-A-Tron / Midway, 1980
+- **Theme music:** [FoxSynergy — Cosmo Blast](https://opengameart.org/content/cosmo-blast) (CC-BY 3.0, 2012)
+- **Framing:** unofficial “what if” 2600 version of that arcade game
 - **Toolchain:** [batari Basic](https://github.com/batari-Basic/batari-Basic) 1.9 + DASM
 
 CosmoBlast is an unofficial homebrew fan work. It is not affiliated with Midway, Atari, Game-A-Tron, or the Space Zap rights holders.
