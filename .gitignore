@@ -1,0 +1,12 @@
+# Build intermediates (keep cosmoblast.bin)
+bin/*
+!bin/cosmoblast.bin
+
+# Duplicate toolchain archive (extracted tree is under tools/bB/bB)
+tools/bB.zip
+
+# Local backups and editor junk
+backup/
+*.code-workspace
+.DS_Store
+Thumbs.db
